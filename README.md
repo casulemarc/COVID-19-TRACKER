@@ -2,6 +2,4 @@
 
 Shows the new/total cases and deaths globally as well as per country
 
-## API
-
-This project uses the [covid19api.com](https://covid19api.com/)
+Check out the full site here: https://covid-19-mlkasule.netlify.app/
